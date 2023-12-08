@@ -13,10 +13,10 @@
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=tansim12&theme=react&hide_border=true)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tansim12&theme=apprentice)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tansim12&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tansim12&theme=apprentice)
+
 
 ---
 
