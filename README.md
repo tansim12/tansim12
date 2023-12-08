@@ -2,7 +2,9 @@
 
 ## 🌐 Socials:
 
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tansimahmed.t) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tansim-ahmed-tasdid-66589a298/)
+
 
 # 💻 Tech Stack:
 
@@ -10,13 +12,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=tansim12&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tansim12&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tansim12&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=tansim12&limit=5&theme=chalk&combine_all_yearly_contributions=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tansim12&theme=apprentice)
 
 ---
 
