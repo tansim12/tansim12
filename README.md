@@ -104,8 +104,8 @@ I am a passionate React front-end developer deeply involved in the realm of full
 **Contest Platform Github:**
 #### front-end [https://github.com/tansim12/Assignment-12-C5-Contest-Client?tab=readme-ov-file](https://github.com/tansim12/Assignment-12-C5-Contest-Client?tab=readme-ov-file)
 #### back-end [https://github.com/tansim12/Assignment-12-C5-Contest-Server](https://github.com/tansim12/Assignment-12-C5-Contest-Server)
-#### Admin-Email admin@gmail.com
-#### Admin-Pass Admin@gmail.com 
+#### Admin-Email phadmin@gmail.com
+#### Admin-Pass Phadmin@gmail.com
 
 ## Marketo.Restaurant
 #### ✔ Marketo.Restaurant full stack Website with Mern stack [https://incredible-selkie-d11477.netlify.app/](https://incredible-selkie-d11477.netlify.app/)
