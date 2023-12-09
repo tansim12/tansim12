@@ -1,30 +1,22 @@
-
 <div align="center">
 <img src="https://i.ibb.co/2NSRYk9/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" align="center" style="width: 100%" />
-</div>  
+</div>
 
+### <div align="center">I'm Tansim Ahmed Tashidd </div>
 
+<div align="center"> A full-time front-end developer 👨‍💻</div>
 
-### <div align="center">I'm Tansim Ahmed Tashidd </div>  
-  
-
-<div align="center"> A full-time front-end developer 👨‍💻</div>  
-
-<br/>  
+<br/>
 
 I am a passionate React front-end developer deeply involved in the realm of full-stack development. Over the past six months, I've dedicated myself to refining my skills in web development, with a keen specialization in React.js for front-end endeavors. Alongside this, I've acquired proficiency in Express.js for server-side development and MongoDB for managing databases. This holistic expertise empowers me to handle end-to-end development tasks and construct resilient, scalable web applications.
- 
+
 <br/>
 
 ### 💻 What I Offer:
 
 - **React.js Expertise:** Proficient in crafting engaging and dynamic user interfaces leveraging React.js to deliver seamless user experiences.
-  
 - **Full-Stack Acumen:** Knowledgeable in Express.js for server-side development, ensuring robust functionality, and MongoDB for efficient database management.
-  
 - **End-to-End Development:** Capable of handling the entire development cycle, from conceptualization to deployment, ensuring the creation of high-quality, scalable web applications.
-
-
 
 <br/>
 
@@ -34,26 +26,20 @@ I am a passionate React front-end developer deeply involved in the realm of full
 
 - 📫 How to reach me **tansimahmedtasjid@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RTnHXkebi-IivuemI6BmPRX4sQDt6xfw/view](https://drive.google.com/file/d/1RTnHXkebi-IivuemI6BmPRX4sQDt6xfw/view)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SazyNXbQVqvdEtYosmaJ8ULcaOIvR0FV/view](https://drive.google.com/file/d/1SazyNXbQVqvdEtYosmaJ8ULcaOIvR0FV/view)
 
 <br/>
 
-
 # 📉Current Stats:
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tansim12&theme=dracula)<br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tansim12&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## My Skill Set
 
-
-
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-### Frontend  
+### Frontend
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -65,14 +51,10 @@ I am a passionate React front-end developer deeply involved in the realm of full
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Chakra UI" height="50" /></a>  
 </div>
 
-
-
-
-
 </td><td valign="top" width="33%">
 
-  
-### Backend  
+### Backend
+
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -82,8 +64,8 @@ I am a passionate React front-end developer deeply involved in the realm of full
 
 </td><td valign="top" width="33%">
 
-  
-### Tools  
+### Tools
+
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" height="50" /></a>
@@ -92,35 +74,48 @@ I am a passionate React front-end developer deeply involved in the realm of full
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
 <br/>
-
 
 ## Projects
 
 ## Contest Platform Full Stack Website
+
 #### ✔ Contest Platform Full Stack Website with Mern stack [https://bright-crisp-282e3c.netlify.app/](https://bright-crisp-282e3c.netlify.app/)
+
 **Contest Platform Github:**
+
 #### front-end [https://github.com/tansim12/Assignment-12-C5-Contest-Client?tab=readme-ov-file](https://github.com/tansim12/Assignment-12-C5-Contest-Client?tab=readme-ov-file)
+
 #### back-end [https://github.com/tansim12/Assignment-12-C5-Contest-Server](https://github.com/tansim12/Assignment-12-C5-Contest-Server)
+
 #### Admin-Email phadmin@gmail.com
+
 #### Admin-Pass Phadmin@gmail.com
 
 ## Marketo.Restaurant
+
 #### ✔ Marketo.Restaurant full stack Website with Mern stack [https://incredible-selkie-d11477.netlify.app/](https://incredible-selkie-d11477.netlify.app/)
+
 **Marketo.Restaurant:**
+
 #### front-end [https://github.com/tansim12/Assignment-11-C5-Resturent-client?tab=readme-ov-file](https://github.com/tansim12/Assignment-11-C5-Resturent-client?tab=readme-ov-file)
+
 #### back-end [https://github.com/tansim12/Assignment-11-C5-Resturent-Server](https://github.com/tansim12/Assignment-11-C5-Resturent-Server)
 
 ## Brand Shop
+
 #### ✔ Brand Shop full stack Website with Mern stack [https://aquamarine-gecko-c70636.netlify.app/](https://aquamarine-gecko-c70636.netlify.app/)
+
 **Brand Shop Github:**
+
 #### front-end [https://github.com/tansim12/Assignment-10-BrandShop?tab=readme-ov-file](https://github.com/tansim12/Assignment-10-BrandShop?tab=readme-ov-file)
+
 #### back-end [https://github.com/tansim12/Assignment-10-BrandShop-Server](https://github.com/tansim12/Assignment-10-BrandShop-Server)
 
+## Connect with me
 
-## Connect with me  
 <div align="center">
 <a href="https://github.com/tansim12" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -131,13 +126,7 @@ I am a passionate React front-end developer deeply involved in the realm of full
 <a href="https://www.facebook.com/tansimahmed.t" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
-
-
-
-
-
+</div>
 
 ---
 
