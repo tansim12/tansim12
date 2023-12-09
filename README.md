@@ -1,20 +1,123 @@
-![Banner Image](https://i.ibb.co/2NSRYk9/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
-## 🌐 Socials:
+<div align="center">
+<img src="https://i.ibb.co/2NSRYk9/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" align="center" style="width: 100%" />
+</div>  
+  
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tansimahmed.t) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tansim-ahmed-tasdid-66589a298/)
+### <div align="center">I'm Tansim Ahmed Tashidd </div>  
+  
 
+<div align="center"> A full-time front-end developer 👨‍💻</div>  
+
+<br/>  
+  
+Assalamu Alaikum , I am Tansim Ahmed Tashdid, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development. Over the past six months, I have been honing my skills in web development, specializing in React.js for front-end development. I also possess knowledge of Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.  
+  
+<br/>
+
+- 🌱 I’m currently learning **Next Js**
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **tansimahmedtasjid@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RTnHXkebi-IivuemI6BmPRX4sQDt6xfw/view](https://drive.google.com/file/d/1RTnHXkebi-IivuemI6BmPRX4sQDt6xfw/view)
+
+
+<br/>
 
 
 # 📉Current Stats:
 
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tansim12&theme=dracula)<br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tansim12&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 
-# 💻 Tech Stack:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50"/> </a>
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+
+</div>
+
+</td><td valign="top" width="33%">
+
+  
+### Backend  
+<div align="center">  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+  
+### Tools  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" height="50" /></a>
+<a href="https://netlify.app/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/netlify_logo_icon_169924.png" alt="netlify" height="50" /></a>
+<a href="https://canva.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/900px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>
+
+
+## Projects
+
+## Contest Platform Full Stack Website
+#### ✔ Contest Platform Full Stack Website with Mern stack [https://bright-crisp-282e3c.netlify.app/](https://bright-crisp-282e3c.netlify.app/)
+**Contest Platform Github:**
+#### front-end [https://github.com/tansim12/Assignment-12-C5-Contest-Client?tab=readme-ov-file](https://github.com/tansim12/Assignment-12-C5-Contest-Client?tab=readme-ov-file)
+#### back-end [https://github.com/tansim12/Assignment-12-C5-Contest-Server](https://github.com/tansim12/Assignment-12-C5-Contest-Server)
+#### Admin-Email admin@gmail.com
+#### Admin-Pass Admin@gmail.com 
+
+## Marketo.Restaurant
+#### ✔ Marketo.Restaurant full stack Website with Mern stack [https://incredible-selkie-d11477.netlify.app/](https://incredible-selkie-d11477.netlify.app/)
+**Marketo.Restaurant:**
+#### front-end [https://github.com/tansim12/Assignment-11-C5-Resturent-client?tab=readme-ov-file](https://github.com/tansim12/Assignment-11-C5-Resturent-client?tab=readme-ov-file)
+#### back-end [https://github.com/tansim12/Assignment-11-C5-Resturent-Server](https://github.com/tansim12/Assignment-11-C5-Resturent-Server)
+
+## Brand Shop
+#### ✔ Brand Shop full stack Website with Mern stack [https://aquamarine-gecko-c70636.netlify.app/](https://aquamarine-gecko-c70636.netlify.app/)
+**Brand Shop Github:**
+#### front-end [https://github.com/tansim12/Assignment-10-BrandShop?tab=readme-ov-file](https://github.com/tansim12/Assignment-10-BrandShop?tab=readme-ov-file)
+#### back-end [https://github.com/tansim12/Assignment-10-BrandShop-Server](https://github.com/tansim12/Assignment-10-BrandShop-Server)
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/tansim12" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/tansim-ahmed-tasdid-66589a298/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/tansimahmed.t" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+
 
 
 
