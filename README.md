@@ -2,7 +2,8 @@
 <div align="center">
 <img src="https://i.ibb.co/2NSRYk9/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" align="center" style="width: 100%" />
 </div>  
-  
+
+
 
 ### <div align="center">I'm Tansim Ahmed Tashidd </div>  
   
@@ -10,9 +11,21 @@
 <div align="center"> A full-time front-end developer 👨‍💻</div>  
 
 <br/>  
+
+I am a passionate React front-end developer deeply involved in the realm of full-stack development. Over the past six months, I've dedicated myself to refining my skills in web development, with a keen specialization in React.js for front-end endeavors. Alongside this, I've acquired proficiency in Express.js for server-side development and MongoDB for managing databases. This holistic expertise empowers me to handle end-to-end development tasks and construct resilient, scalable web applications.
+ 
+<br/>
+
+### 💻 What I Offer:
+
+- **React.js Expertise:** Proficient in crafting engaging and dynamic user interfaces leveraging React.js to deliver seamless user experiences.
   
-Assalamu Alaikum , I am Tansim Ahmed Tashdid, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development. Over the past six months, I have been honing my skills in web development, specializing in React.js for front-end development. I also possess knowledge of Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.  
+- **Full-Stack Acumen:** Knowledgeable in Express.js for server-side development, ensuring robust functionality, and MongoDB for efficient database management.
   
+- **End-to-End Development:** Capable of handling the entire development cycle, from conceptualization to deployment, ensuring the creation of high-quality, scalable web applications.
+
+
+
 <br/>
 
 - 🌱 I’m currently learning **Next Js**
