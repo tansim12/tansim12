@@ -34,7 +34,7 @@ Driven to master Full Stack Development, I am committed to creating innovative w
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tansim12&theme=dracula)<br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tansim12&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<!-- 
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
@@ -83,7 +83,7 @@ Driven to master Full Stack Development, I am committed to creating innovative w
 
 ### Tools
 
-<div align="center">  
+<div align="center" >  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="./image/icon/Vercel-Dark.svg" alt="vercel" height="50" /></a>
 <a href="https://netlify.app/" target="_blank"><img style="margin: 10px" src="./image/icon/Netlify-Dark.svg" alt="netlify" height="50" /></a>
@@ -91,7 +91,86 @@ Driven to master Full Stack Development, I am committed to creating innovative w
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td></tr></table>
+</td></tr></table> -->
+## My Skill Set
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend</h3>
+      <div align="center">
+        <a href="https://nextjs.org/" target="_blank">
+          <img src="./image/icon/NextJS-Dark.svg" alt="Next.js" height="50" style="margin: 10px;" />
+        </a>
+        <a href="https://reactjs.org/" target="_blank">
+          <img src="./image/icon/React-Dark.svg" alt="React" height="50" style="margin: 10px;" />
+        </a>
+        <a href="https://react-redux.js.org/" target="_blank">
+          <img src="./image/icon/Redux.svg" alt="Redux" height="50" style="margin: 10px;" />
+        </a>
+        <a href="https://www.typescriptlang.org/" target="_blank">
+          <img src="./image/icon/TypeScript.svg" alt="TypeScript" height="50" style="margin: 10px;" />
+        </a>
+        <a href="https://www.javascript.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin: 10px;" />
+        </a>
+        <a href="https://mui.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" style="margin: 10px;" />
+        </a>
+        <a href="https://www.tailwindcss.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" style="margin: 10px;" />
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Backend</h3>
+      <div align="center">
+        <a href="https://docs.nestjs.com/" target="_blank">
+          <img src="./image/icon/NestJS-Dark.svg" alt="NestJS" height="50" style="margin: 10px;" />
+        </a>
+        <a href="https://www.postgresql.org/" target="_blank">
+          <img src="./image/icon/PostgreSQL-Dark.svg" alt="PostgreSQL" height="50" style="margin: 10px;" />
+        </a>
+        <a href="https://www.prisma.io/" target="_blank">
+          <img src="./image/icon/Prisma.svg" alt="Prisma" height="50" style="margin: 10px;" />
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank">
+          <img src="./image/icon/MongoDB.svg" alt="MongoDB" height="50" style="margin: 10px;" />
+        </a>
+        <a href="https://expressjs.com/" target="_blank">
+          <img src="./image/icon/ExpressJS-Dark.svg" alt="Express.js" height="50" style="margin: 10px;" />
+        </a>
+        <a href="https://nodejs.org/" target="_blank">
+          <img src="./image/icon/NodeJS-Dark.svg" alt="Node.js" height="50" style="margin: 10px;" />
+        </a>
+        <a href="https://firebase.google.com/" target="_blank">
+          <img src="./image/icon/Firebase-Dark.svg" alt="Firebase" height="50" style="margin: 10px;" />
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Tools</h3>
+      <div align="center">
+        <a href="https://git-scm.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin: 10px;" />
+        </a>
+        <a href="https://vercel.com/" target="_blank">
+          <img src="./image/icon/Vercel-Dark.svg" alt="Vercel" height="50" style="margin: 10px;" />
+        </a>
+        <a href="https://www.netlify.com/" target="_blank">
+          <img src="./image/icon/Netlify-Dark.svg" alt="Netlify" height="50" style="margin: 10px;" />
+        </a>
+        <a href="https://www.canva.com/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/900px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" height="50" style="margin: 10px;" />
+        </a>
+        <a href="https://www.figma.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" style="margin: 10px;" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 <br/>
 
