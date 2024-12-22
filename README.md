@@ -1,26 +1,26 @@
 <div align="center">
-<img src="https://i.ibb.co/2NSRYk9/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" align="center" style="width: 100%" />
+<img src="./image/banner.png" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">I'm Tansim Ahmed Tashidd </div>
 
-<div align="center"> A full-time front-end developer 👨‍💻</div>
+<div align="center"> A full-time full-stack developer 👨‍💻</div>
 
 <br/>
 
-I am a passionate React front-end developer deeply involved in the realm of full-stack development. Over the past six months, I've dedicated myself to refining my skills in web development, with a keen specialization in React.js for front-end endeavors. Alongside this, I've acquired proficiency in Express.js for server-side development and MongoDB for managing databases. This holistic expertise empowers me to handle end-to-end development tasks and construct resilient, scalable web applications.
+Driven to master Full Stack Development, I am committed to creating innovative web solutions that blend creativity with effective problem-solving. With a focus on user experience (UI/UX, cross-platform, Responsive) and impactful design, I aim to contribute meaningfully to organizational success while continuously enhancing my skills.
 
 <br/>
 
 ### 💻 What I Offer:
 
-- **React.js Expertise:** Proficient in crafting engaging and dynamic user interfaces leveraging React.js to deliver seamless user experiences.
-- **Full-Stack Acumen:** Knowledgeable in Express.js for server-side development, ensuring robust functionality, and MongoDB for efficient database management.
+- **Next.js Expertise:** Proficient in crafting engaging and dynamic user interfaces leveraging Next.js to deliver seamless user experiences.
+- **Full-Stack Acumen:** Knowledgeable in Nest.js,Prisma,Express.js for server-side development, ensuring robust functionality, and MongoDB and PostgresSQL for efficient database management.
 - **End-to-End Development:** Capable of handling the entire development cycle, from conceptualization to deployment, ensuring the creation of high-quality, scalable web applications.
 
 <br/>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Nest Js**
 
 - 💬 Ask me about **React**
 
