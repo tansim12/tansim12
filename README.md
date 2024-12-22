@@ -34,64 +34,7 @@ Driven to master Full Stack Development, I am committed to creating innovative w
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tansim12&theme=dracula)<br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tansim12&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<!-- 
-## My Skill Set
 
-<table><tr><td valign="top" width="33%">
-
-### Frontend
-
-<div align="center">
-
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="./image/icon//NextJS-Dark.svg" alt="React" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./image/icon/React-Dark.svg" alt="React" height="50" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./image/icon/Redux.svg" alt="React" height="50" /></a>
-
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./image/icon/TypeScript.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-
-
-</div>
-
-</td><td valign="top" width="33%">
-
-### Backend
-
-<div align="center">  
-<a href="https://docs.nestjs.com/" target="_blank"><img style="margin: 10px" src="./image/icon/NestJS-Dark.svg" alt="MongoDB" height="50" /></a>  
-
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="./image/icon/PostgreSQL-Dark.svg" alt="MongoDB" height="50" /></a>  
-
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="./image/icon/Prisma.svg" alt="MongoDB" height="50" /></a>  
-
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="./image/icon/MongoDB.svg" alt="MongoDB" height="50" /></a>  
-
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="./image/icon/ExpressJS-Dark.svg" alt="MongoDB" height="50" /></a>  
-
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="./image/icon/NodeJS-Dark.svg" alt="MongoDB" height="50" /></a>  
-
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="./image/icon/ExpressJS-Dark.svg" alt="MongoDB" height="50" /></a>  
-
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="./image/icon/Firebase-Dark.svg" alt="MongoDB" height="50" /></a>  
-
-
-</div>
-
-</td><td valign="top" width="33%">
-
-### Tools
-
-<div align="center" >  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="./image/icon/Vercel-Dark.svg" alt="vercel" height="50" /></a>
-<a href="https://netlify.app/" target="_blank"><img style="margin: 10px" src="./image/icon/Netlify-Dark.svg" alt="netlify" height="50" /></a>
-<a href="https://canva.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/900px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
-
-</td></tr></table> -->
 ## My Skill Set
 
 <table>
@@ -171,44 +114,8 @@ Driven to master Full Stack Development, I am committed to creating innovative w
   </tr>
 </table>
 
-
 <br/>
 
-## Projects
-
-## Contest Platform Full Stack Website
-
-#### ✔ Contest Platform Full Stack Website with Mern stack [https://bright-crisp-282e3c.netlify.app/](https://bright-crisp-282e3c.netlify.app/)
-
-**Contest Platform Github:**
-
-#### front-end [https://github.com/tansim12/Assignment-12-C5-Contest-Client?tab=readme-ov-file](https://github.com/tansim12/Assignment-12-C5-Contest-Client?tab=readme-ov-file)
-
-#### back-end [https://github.com/tansim12/Assignment-12-C5-Contest-Server](https://github.com/tansim12/Assignment-12-C5-Contest-Server)
-
-#### Admin-Email phadmin@gmail.com
-
-#### Admin-Pass Phadmin@gmail.com
-
-## Marketo.Restaurant
-
-#### ✔ Marketo.Restaurant full stack Website with Mern stack [https://incredible-selkie-d11477.netlify.app/](https://incredible-selkie-d11477.netlify.app/)
-
-**Marketo.Restaurant:**
-
-#### front-end [https://github.com/tansim12/Assignment-11-C5-Resturent-client?tab=readme-ov-file](https://github.com/tansim12/Assignment-11-C5-Resturent-client?tab=readme-ov-file)
-
-#### back-end [https://github.com/tansim12/Assignment-11-C5-Resturent-Server](https://github.com/tansim12/Assignment-11-C5-Resturent-Server)
-
-## Brand Shop
-
-#### ✔ Brand Shop full stack Website with Mern stack [https://aquamarine-gecko-c70636.netlify.app/](https://aquamarine-gecko-c70636.netlify.app/)
-
-**Brand Shop Github:**
-
-#### front-end [https://github.com/tansim12/Assignment-10-BrandShop?tab=readme-ov-file](https://github.com/tansim12/Assignment-10-BrandShop?tab=readme-ov-file)
-
-#### back-end [https://github.com/tansim12/Assignment-10-BrandShop-Server](https://github.com/tansim12/Assignment-10-BrandShop-Server)
 
 ## Connect with me
 
