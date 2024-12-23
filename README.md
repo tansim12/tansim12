@@ -26,7 +26,7 @@ Driven to master Full Stack Development, I am committed to creating innovative w
 
 - 📫 How to reach me **tansimahmedtasjid@gmail.com**
 
-- 📄 Know about my experiences : [Drive Link](https://drive.google.com/file/d/1EJoKORLpTITKh3HqK9AJKDk-TGGfCHb4/view)
+- 📄 Know about my experiences : [Drive Link](https://drive.google.com/file/d/1vbva7P27gD_pVo1kXMSCO8BqxdHOoxeE/view?usp=drive_link)
 
 <br/>
 
