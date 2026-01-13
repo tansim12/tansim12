@@ -2,31 +2,25 @@
 <img src="./image/banner.png" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Tansim Ahmed Tashidd </div>
+### <div align="center">I'm Tansim Ahmed Tashdid </div>
 
-<div align="center"> A full-time full-stack developer 👨‍💻</div>
-
-<br/>
-
-Driven to master Full Stack Development, I am committed to creating innovative web solutions that blend creativity with effective problem-solving. With a focus on user experience (UI/UX, cross-platform, Responsive) and impactful design, I aim to contribute meaningfully to organizational success while continuously enhancing my skills.
+<!-- <div align="center"> A full-time full-stack developer 👨‍💻</div> -->
 
 <br/>
 
-### 💻 What I Offer:
+Backend-focused Full-Stack Developer skilled in Nest.js and Next.js, building high-quality web applications with strong architectural foundations. I specialize in scalable backend systems powered by microservices and clean architecture.
 
-- **Next.js Expertise:** Proficient in crafting engaging and dynamic user interfaces leveraging Next.js to deliver seamless user experiences.
-- **Full-Stack Acumen:** Knowledgeable in Nest.js,Prisma,Express.js for server-side development, ensuring robust functionality, and MongoDB and PostgresSQL for efficient database management.
-- **End-to-End Development:** Capable of handling the entire development cycle, from conceptualization to deployment, ensuring the creation of high-quality, scalable web applications.
+Driven by continuous learning, my goal is to contribute meaningfully to organizational growth while staying at the forefront of modern backend engineering.
+<br/>
+
 
 <br/>
 
-- 🌱 I’m currently learning **Nest Js**
-
-- 💬 Ask me about **React**
+- 💬 Ask me about **Nest.js, Backend Architecture & Microservices**
 
 - 📫 How to reach me **tansimahmedtasjid@gmail.com**
 
-- 📄 Know about my experiences : [Drive Link](https://drive.google.com/file/d/1m-z66LLRLVaDYYlKn0G6_iUkI7d0098P/view)
+- 🔗 LinkedIn: [tansim-ahmed-tasdid](https://www.linkedin.com/in/tansim-ahmed-tasdid/)
 
 <br/>
 
