@@ -7,10 +7,7 @@
 <!-- <div align="center"> A full-time full-stack developer 👨‍💻</div> -->
 
 <br/>
-
-Backend-focused Full-Stack Developer skilled in Nest.js and Next.js, building high-quality web applications with strong architectural foundations. I specialize in scalable backend systems powered by microservices and clean architecture.
-
-Driven by continuous learning, my goal is to contribute meaningfully to organizational growth while staying at the forefront of modern backend engineering.
+Backend Software Engineer specializing in microservices, distributed systems, and scalable application architecture. Experienced in building secure, high-performance backend systems with clean and maintainable design. Focused on solving real-world problems through thoughtful engineering, system optimization, and collaborative development. Passionate about backend architecture, DevOps, and scalable infrastructure.
 <br/>
 
 
